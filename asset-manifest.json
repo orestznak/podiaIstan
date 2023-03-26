@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/podiaIstan/static/css/main.753685b6.css",
+    "main.js": "/podiaIstan/static/js/main.9ede5ec6.js",
+    "index.html": "/podiaIstan/index.html",
+    "main.753685b6.css.map": "/podiaIstan/static/css/main.753685b6.css.map",
+    "main.9ede5ec6.js.map": "/podiaIstan/static/js/main.9ede5ec6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.753685b6.css",
+    "static/js/main.9ede5ec6.js"
+  ]
+}
