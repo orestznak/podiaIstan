@@ -2,6 +2,7 @@ import React from "react";
 import Counter from "./Counter/Counter";
 import Dropdown from "./Dropdown/Dropdown";
 import ColorPicker from "./ColorPicker/ColorPicker";
+import FormaUser from "./Forma/Forma";
 
 const colorPickersOptions=[
   {label: 'red', color: '#F44336'},
@@ -20,6 +21,7 @@ export const App = () => {
       <Counter />
       <Dropdown />
       <ColorPicker options={colorPickersOptions}/>
+      <FormaUser/>
     </div>
   );
 };
